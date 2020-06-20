@@ -1,6 +1,6 @@
 baseURL = "/"
 theme = "hugo-theme-novela"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Nuclear Blog"
 [taxonomies]
     author = "authors"
